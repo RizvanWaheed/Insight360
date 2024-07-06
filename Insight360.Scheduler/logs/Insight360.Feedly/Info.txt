@@ -1,0 +1,836 @@
+INFO  2016-05-06 16:44:17,124  2023ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Instagram Started
+INFO  2017-09-22 12:14:50,476 22885ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-09-22 12:15:53,056 85465ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:20:03,239 335648ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:20:07,399 339808ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/21/2017 10:27:23 AM Completed
+INFO  2017-09-22 12:20:07,449 339858ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:34:33,095 1205504ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Queued Persisting Feed 2 searchterm=k-electric Started
+INFO  2017-09-22 12:34:33,096 1205505ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-2-9/22/2017 11:55:00 AM Completed
+INFO  2017-09-22 12:34:33,124 1205533ms FeedlyInfo             teOperationStarted - PersistFeeds-Persisting Feeds 2 searchterm=k-electric Started
+INFO  2017-09-22 12:34:33,565 1205974ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:34:45,529 1217938ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-09-22 12:34:46,205 1218614ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:37:03,343 1355753ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Queued Persisting Feed 3 searchterm=k-electric Started
+INFO  2017-09-22 12:37:03,343 1355753ms FeedlyInfo             teOperationStarted - PersistFeeds-Persisting Feeds 3 searchterm=k-electric Started
+INFO  2017-09-22 12:37:03,343 1355753ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-3-9/22/2017 6:14:02 AM Completed
+INFO  2017-09-22 12:37:03,448 1355858ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:40:12,603  2461ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-09-22 12:40:16,940  6798ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:45:16,375 292846ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Queued Persisting Feed 8 searchterm=k-electric Started
+INFO  2017-09-22 12:45:16,375 292846ms FeedlyInfo             teOperationStarted - PersistFeeds-Persisting Feeds 8 searchterm=k-electric Started
+INFO  2017-09-22 12:45:16,375 292846ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-8-9/22/2017 7:01:01 AM Completed
+INFO  2017-09-22 12:45:16,405 292876ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:49:43,038 559509ms FeedlyInfo             teOperationStarted - PersistFeeds-Persisting Feeds 8 searchterm=k-electric Started
+INFO  2017-09-22 12:49:43,038 559509ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Queued Persisting Feed 8 searchterm=k-electric Started
+INFO  2017-09-22 12:49:43,038 559509ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-8-9/22/2017 7:01:01 AM Completed
+INFO  2017-09-22 12:49:43,120 559591ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:50:24,822 601294ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-09-22 12:50:25,706 602177ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:51:29,575 666046ms FeedlyInfo             teOperationStarted - PersistFeeds-Persisting Feeds 4 searchterm=k-electric Started
+INFO  2017-09-22 12:51:29,575 666046ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Queued Persisting Feed 4 searchterm=k-electric Started
+INFO  2017-09-22 12:51:29,575 666046ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-4-9/22/2017 7:01:01 AM Completed
+INFO  2017-09-22 12:51:29,653 666124ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:51:33,518 669989ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/20/2017 1:29:18 PM Completed
+INFO  2017-09-22 12:51:33,578 670049ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:51:35,448 671919ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/2/2017 12:35:00 PM Completed
+INFO  2017-09-22 12:51:35,518 671989ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:51:38,843 675314ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/22/2017 1:35:23 AM Completed
+INFO  2017-09-22 12:51:38,903 675374ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:51:41,647 678119ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/12/2017 8:59:00 PM Completed
+INFO  2017-09-22 12:51:41,687 678159ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:51:44,045 680516ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/18/2017 6:05:14 AM Completed
+INFO  2017-09-22 12:51:44,085 680556ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:51:46,040 682511ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/21/2017 1:30:23 PM Completed
+INFO  2017-09-22 12:51:46,080 682551ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:52:28,686 725157ms FeedlyInfo             teOperationStarted - PersistFeeds-Persisting Feeds 4 searchterm=k-electric Started
+INFO  2017-09-22 12:52:28,686 725157ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Queued Persisting Feed 4 searchterm=k-electric Started
+INFO  2017-09-22 12:52:28,686 725157ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-4-9/22/2017 7:01:01 AM Completed
+INFO  2017-09-22 12:52:28,721 725192ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:52:31,471 727942ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/20/2017 1:29:18 PM Completed
+INFO  2017-09-22 12:52:31,541 728012ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:52:32,576 729047ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/2/2017 12:35:00 PM Completed
+INFO  2017-09-22 12:52:32,616 729087ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:52:35,130 731602ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/22/2017 1:35:23 AM Completed
+INFO  2017-09-22 12:52:35,178 731649ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:52:37,047 733518ms FeedlyInfo             teOperationStarted - PersistFeeds-Persisting Feeds 1 searchterm=k-electric Started
+INFO  2017-09-22 12:52:37,047 733518ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Queued Persisting Feed 1 searchterm=k-electric Started
+INFO  2017-09-22 12:52:37,047 733518ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-1-9/1/2017 12:00:00 AM Completed
+INFO  2017-09-22 12:52:37,107 733578ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:52:37,997 734468ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/12/2017 8:59:00 PM Completed
+INFO  2017-09-22 12:52:38,037 734508ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:52:39,686 736157ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/18/2017 6:05:14 AM Completed
+INFO  2017-09-22 12:52:39,769 736240ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:52:41,211 737682ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/21/2017 1:30:23 PM Completed
+INFO  2017-09-22 12:52:41,241 737712ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:53:29,285 785756ms FeedlyInfo             teOperationStarted - PersistFeeds-Persisting Feeds 1 searchterm=k-electric Started
+INFO  2017-09-22 12:53:29,285 785756ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Queued Persisting Feed 1 searchterm=k-electric Started
+INFO  2017-09-22 12:53:29,285 785756ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-1-9/22/2017 7:27:08 AM Completed
+INFO  2017-09-22 12:53:29,345 785816ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:53:38,703 795174ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Queued Persisting Feed 1 searchterm=k-electric Started
+INFO  2017-09-22 12:53:38,703 795174ms FeedlyInfo             teOperationStarted - PersistFeeds-Persisting Feeds 1 searchterm=k-electric Started
+INFO  2017-09-22 12:53:38,703 795174ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-1-9/1/2017 12:00:00 AM Completed
+INFO  2017-09-22 12:53:38,785 795257ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:53:53,681 810152ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/1/2017 12:00:00 AM Completed
+INFO  2017-09-22 12:53:53,718 810189ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:53:57,602 814073ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/22/2017 7:53:25 AM Completed
+INFO  2017-09-22 12:53:57,654 814125ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:53:59,077 815548ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/19/2017 3:28:06 AM Completed
+INFO  2017-09-22 12:53:59,177 815648ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:54:14,555 831026ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/22/2017 6:59:00 AM Completed
+INFO  2017-09-22 12:54:14,595 831066ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:54:46,111 862582ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/1/2017 12:00:00 AM Completed
+INFO  2017-09-22 12:54:46,200 862671ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:54:49,430 865901ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/14/2017 9:31:36 AM Completed
+INFO  2017-09-22 12:54:49,463 865934ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:54:54,036 870507ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/22/2017 4:04:51 AM Completed
+INFO  2017-09-22 12:54:54,093 870564ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:55:15,824 892295ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Queued Persisting Feed 1 searchterm=k-electric Started
+INFO  2017-09-22 12:55:15,824 892295ms FeedlyInfo             teOperationStarted - PersistFeeds-Persisting Feeds 1 searchterm=k-electric Started
+INFO  2017-09-22 12:55:15,824 892295ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-1-9/22/2017 7:27:08 AM Completed
+INFO  2017-09-22 12:55:15,936 892407ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:55:31,799 908270ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/1/2017 12:00:00 AM Completed
+INFO  2017-09-22 12:55:31,839 908310ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:55:35,508 911979ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/22/2017 7:53:25 AM Completed
+INFO  2017-09-22 12:55:35,558 912029ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:55:36,946 913417ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/19/2017 3:28:06 AM Completed
+INFO  2017-09-22 12:55:37,116 913587ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 12:55:49,552 926024ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/22/2017 6:59:00 AM Completed
+INFO  2017-09-22 12:55:49,590 926061ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 13:01:12,381  3833ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-09-22 13:01:15,207  6658ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 13:01:35,098 26550ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/1/2017 12:00:00 AM Completed
+INFO  2017-09-22 13:01:35,208 26660ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/14/2017 9:31:36 AM Started
+INFO  2017-09-22 13:01:36,948 28400ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/14/2017 9:31:36 AM Completed
+INFO  2017-09-22 13:01:36,988 28440ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/22/2017 4:04:51 AM Started
+INFO  2017-09-22 13:01:38,648 30100ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-k-electric-SearchTerm-0-9/22/2017 4:04:51 AM Completed
+INFO  2017-09-22 13:01:38,688 30140ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 13:11:11,616 603068ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-09-22 13:11:13,630 605081ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-k-electric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-09-22 18:09:23,004  6430ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-09-22 18:11:02,718  1898ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-09-22 18:11:28,919 28100ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-K Electric -SearchTerm-7/10/3014 10:49:09 AM Started
+INFO  2017-09-22 18:11:53,293 44076ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-K Electric -SearchTerm-0-7/10/3014 10:49:09 AM Completed
+INFO  2017-09-22 18:11:54,966 45749ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-K Electric -SearchTerm-0-7/10/3014 10:49:09 AM Completed
+INFO  2017-09-22 18:11:56,593 47376ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-K Electric -SearchTerm-0-7/10/3014 10:49:09 AM Completed
+INFO  2017-09-22 18:11:58,353 49136ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-K Electric -SearchTerm-0-7/10/3014 10:49:09 AM Completed
+INFO  2017-09-22 18:12:00,126 50909ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-K Electric -SearchTerm-0-7/10/3014 10:49:09 AM Completed
+INFO  2017-09-22 18:12:01,266 52049ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-K Electric -SearchTerm-0-7/10/3014 10:49:09 AM Completed
+INFO  2017-09-22 18:14:30,043  1410ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-09-22 18:14:46,479 17846ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-K Electric -SearchTerm-9/21/2017 9:55:49 PM Started
+INFO  2017-09-22 18:15:14,271 45638ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-K Electric -SearchTerm-0-9/22/2017 12:47:19 PM Completed
+INFO  2017-09-22 18:15:16,824 48191ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-K Electric -SearchTerm-9/22/2017 12:22:51 AM Started
+INFO  2017-09-22 18:15:57,065 88432ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-K Electric -SearchTerm-0-9/22/2017 1:06:40 PM Completed
+INFO  2017-09-22 18:15:58,563 89930ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-K Electric -SearchTerm-6/2/2017 8:55:08 PM Started
+INFO  2017-09-22 18:16:50,834 142201ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-K Electric -SearchTerm-0-6/2/2017 8:55:08 PM Completed
+INFO  2017-09-22 18:16:52,144 143511ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-K Electric -SearchTerm-9/21/2017 12:49:00 PM Started
+INFO  2017-09-22 18:16:55,489 146856ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-K Electric -SearchTerm-0-9/22/2017 3:13:49 PM Completed
+INFO  2017-09-22 18:16:56,274 147641ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-K Electric -SearchTerm-9/22/2017 5:21:00 AM Started
+INFO  2017-09-22 18:16:59,953 151320ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-K Electric -SearchTerm-0-9/22/2017 5:21:00 PM Completed
+INFO  2017-09-22 18:17:01,709 153076ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-K Electric -SearchTerm-9/22/2017 12:39:33 AM Started
+INFO  2017-09-22 18:17:24,275 175642ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-K Electric -SearchTerm-0-9/22/2017 12:11:06 PM Completed
+INFO  2017-09-22 18:17:26,467 177834ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-K Electric -SearchTerm-6/2/2017 8:55:08 PM Started
+INFO  2017-09-22 18:18:17,059  2082ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-09-22 18:20:09,904 114928ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-K Electric -SearchTerm-6/2/2017 8:55:08 PM Started
+INFO  2017-09-22 18:24:26,211 371234ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-K Electric -SearchTerm-0-6/2/2017 8:55:08 PM Completed
+INFO  2017-09-22 18:24:27,781 372804ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-K Electric -SearchTerm-9/21/2017 12:00:00 AM Started
+INFO  2017-09-22 18:25:53,150 458174ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-K Electric -SearchTerm-0-9/22/2017 12:00:00 AM Completed
+INFO  2017-09-22 18:26:04,130 469154ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-K Electric -SearchTerm-9/20/2017 9:04:25 AM Started
+INFO  2017-09-22 18:26:17,465 482489ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-K Electric -SearchTerm-0-9/21/2017 1:30:23 PM Completed
+INFO  2017-09-22 18:26:25,418 490441ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-K Electric -SearchTerm-6/2/2017 8:55:08 PM Started
+INFO  2017-09-22 18:28:09,884 594907ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-K Electric -SearchTerm-0-6/2/2017 8:55:08 PM Completed
+INFO  2017-09-22 18:28:11,616 596640ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-K Electric -SearchTerm-9/21/2017 11:55:45 PM Started
+INFO  2017-09-22 18:28:16,583 601607ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-09-22 18:28:17,043 602067ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-K Electric -SearchTerm-0-9/21/2017 11:55:45 PM Completed
+INFO  2017-09-22 18:28:30,884 615907ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-K Electric -SearchTerm-7/16/2017 3:40:08 PM Started
+INFO  2017-09-22 18:28:34,858 619881ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-K Electric -SearchTerm-7/16/2017 3:40:08 PM Started
+INFO  2017-09-22 18:29:15,142 660166ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-K Electric -SearchTerm-0-7/16/2017 3:40:08 PM Completed
+INFO  2017-09-22 18:29:16,012 661036ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-K Electric -SearchTerm-0-7/16/2017 3:40:08 PM Completed
+INFO  2017-09-22 18:29:16,042 661066ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-K Electric -SearchTerm-6/2/2017 8:55:08 PM Started
+INFO  2017-09-22 18:29:22,773 667796ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-K Electric -SearchTerm-6/2/2017 8:55:08 PM Started
+INFO  2017-09-25 17:16:15,152 15965ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-09-25 17:19:21,298  2309ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-09-25 17:20:57,519  1970ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-09-25 17:29:31,294  2229ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-09-25 17:31:30,920  1486ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-09-25 17:40:03,723  2785ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-09-25 17:42:26,940  2094ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-09-25 18:19:41,470  2252ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-10-13 12:29:45,413  6032ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-10-13 12:30:08,281 28899ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-WAPDA-SearchTerm-10/5/2017 9:33:22 AM Started
+INFO  2017-10-13 12:31:00,968 81586ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-WAPDA-SearchTerm-0-10/13/2017 10:02:00 AM Completed
+INFO  2017-10-13 12:31:03,104 83723ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-WAPDA-SearchTerm-10/10/2017 5:49:15 PM Started
+INFO  2017-10-13 12:31:07,927 88546ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-WAPDA-SearchTerm-0-10/13/2017 4:43:02 AM Completed
+INFO  2017-10-13 12:31:08,975 89594ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-WAPDA-SearchTerm-10/10/2017 7:27:26 AM Started
+INFO  2017-10-13 12:31:11,408 92027ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-WAPDA-SearchTerm-0-10/10/2017 7:27:26 AM Completed
+INFO  2017-10-13 12:31:12,266 92885ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-WAPDA-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-13 12:31:37,902 118521ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-WAPDA-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2017-10-13 12:31:39,612 120231ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-WAPDA-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-13 12:39:44,132 604751ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-10-13 12:40:01,862 622481ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-19 17:24:38,959 22531ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-10-19 17:41:34,584  5560ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-10-19 17:51:33,404 604379ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-10-19 18:01:33,482 1204457ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-10-22 10:56:55,909 21916ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-10-22 10:57:52,874 78881ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-10-22 10:58:02,525 88532ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-10-22 10:58:07,442 93449ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/21/2017 11:12:33 PM Started
+INFO  2017-10-22 10:58:13,500 99508ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/22/2017 5:20:14 AM Completed
+INFO  2017-10-22 10:58:15,759 101766ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-10-22 10:58:20,355 106362ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-10-22 11:01:14,065 280073ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/21/2017 6:21:19 PM Completed
+INFO  2017-10-22 11:01:16,435 282443ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-10-22 11:01:38,846 304853ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/21/2017 4:05:40 AM Started
+INFO  2017-10-22 11:01:44,576 310583ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/21/2017 4:05:40 AM Completed
+INFO  2017-10-22 11:01:50,416 316423ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/21/2017 3:56:28 AM Started
+INFO  2017-10-22 11:01:55,396 321403ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/22/2017 5:48:26 AM Completed
+INFO  2017-10-22 11:01:57,266 323273ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-10-22 11:02:02,038 328046ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/10/2017 7:27:26 AM Started
+INFO  2017-10-22 11:02:05,218 331226ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/10/2017 7:27:26 AM Completed
+INFO  2017-10-22 11:02:09,342 335350ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-10-22 11:02:38,836 364843ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-9/1/2017 12:00:00 AM Completed
+INFO  2017-10-22 11:02:43,816 369823ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/20/2017 6:42:47 AM Started
+INFO  2017-10-22 11:02:49,262 375269ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/22/2017 5:08:55 AM Completed
+INFO  2017-10-22 11:02:52,901 378908ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-10-22 11:03:23,651 409659ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-9/1/2017 12:00:00 AM Completed
+INFO  2017-10-22 11:03:24,756 410764ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/17/2017 5:31:48 AM Started
+INFO  2017-10-22 11:03:28,113 414120ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/17/2017 5:31:48 AM Completed
+INFO  2017-10-22 11:03:29,447 415454ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-10-22 11:04:04,112 450119ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-9/1/2017 12:00:00 AM Completed
+INFO  2017-10-22 11:04:05,454 451461ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/21/2017 8:14:33 PM Started
+INFO  2017-10-22 11:04:08,814 454821ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/22/2017 5:11:48 AM Completed
+INFO  2017-10-22 11:04:09,674 455681ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/18/2017 12:00:00 AM Started
+INFO  2017-10-22 11:04:12,404 458411ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/20/2017 2:50:55 PM Completed
+INFO  2017-10-22 11:04:13,914 459921ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/19/2017 12:24:40 PM Started
+INFO  2017-10-22 11:04:16,704 462711ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/19/2017 12:24:40 PM Completed
+INFO  2017-10-22 11:04:18,564 464571ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/20/2017 7:22:53 PM Started
+INFO  2017-10-22 11:04:25,273 471280ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/22/2017 5:36:04 AM Completed
+INFO  2017-10-22 11:04:27,633 473640ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/22/2017 5:39:00 AM Started
+INFO  2017-10-22 11:04:32,220 478227ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/22/2017 9:26:00 AM Completed
+INFO  2017-10-22 11:04:33,860 479867ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/21/2017 8:21:44 PM Started
+INFO  2017-10-22 11:04:37,110 483117ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/22/2017 5:18:22 AM Completed
+INFO  2017-10-22 11:04:38,980 484987ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/18/2017 11:17:55 AM Started
+INFO  2017-10-22 11:04:45,392 491399ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/20/2017 11:06:40 AM Completed
+INFO  2017-10-22 11:04:52,692 498699ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/22/2017 4:00:00 AM Started
+INFO  2017-10-22 11:04:57,372 503379ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/22/2017 4:00:00 AM Completed
+INFO  2017-10-22 11:04:59,488 505495ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/18/2017 8:32:47 AM Started
+INFO  2017-10-22 11:05:04,969 510976ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/18/2017 8:32:47 AM Completed
+INFO  2017-10-22 11:05:08,219 514226ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/20/2017 12:00:00 AM Started
+INFO  2017-10-22 11:05:13,399 519406ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/22/2017 12:00:00 AM Completed
+INFO  2017-10-22 11:05:15,539 521546ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-10-22 11:06:01,309 567316ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-9/1/2017 12:00:00 AM Completed
+INFO  2017-10-22 11:06:03,519 569526ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-10-22 11:06:36,782 602789ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-9/1/2017 12:00:00 AM Completed
+INFO  2017-10-22 11:06:39,392 605399ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/19/2017 12:00:00 AM Started
+INFO  2017-10-22 11:06:44,920 610927ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/19/2017 12:00:00 AM Completed
+INFO  2017-10-22 11:06:46,710 612717ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-10-22 11:06:50,090 616097ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-10-22 11:07:13,512 639519ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-10/22/2017 12:00:00 AM Started
+INFO  2017-10-22 11:07:17,014 643021ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-9/1/2017 12:00:00 AM Completed
+INFO  2017-10-22 11:07:18,884 644891ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-10/22/2017 12:00:00 AM Completed
+INFO  2017-10-22 11:07:19,504 645511ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/21/2017 3:36:22 AM Started
+INFO  2017-10-22 11:07:20,797 646804ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-22 11:07:23,773 649780ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/21/2017 3:36:22 AM Completed
+INFO  2017-10-22 11:07:26,913 652920ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/20/2017 5:07:27 AM Started
+INFO  2017-10-22 11:07:34,493 660500ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/21/2017 6:23:15 PM Completed
+INFO  2017-10-22 11:07:37,213 663220ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-10-22 11:07:49,437 675444ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2017-10-22 11:07:51,767 677774ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-10/18/2017 12:00:00 AM Started
+INFO  2017-10-22 11:08:00,466 686473ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-10/19/2017 12:00:00 AM Completed
+INFO  2017-10-23 11:06:42,689 87008697ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-23 11:06:49,393 87015400ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/21/2017 11:44:00 PM Started
+INFO  2017-10-23 11:06:50,148 87016155ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-10-23 11:07:06,629 87032636ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/23/2017 10:10:00 AM Completed
+INFO  2017-10-23 11:07:10,032 87036039ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/20/2017 9:37:08 AM Started
+INFO  2017-10-23 11:07:15,211 87041218ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/23/2017 8:55:00 AM Completed
+INFO  2017-10-23 11:07:17,961 87043969ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/21/2017 7:34:18 PM Started
+INFO  2017-10-23 11:07:21,161 87047169ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Islamabad Electric Supply Company-SearchTerm-10/10/2017 7:27:26 AM Started
+INFO  2017-10-23 11:07:22,428 87048436ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/23/2017 5:39:50 AM Completed
+INFO  2017-10-23 11:07:24,484 87050491ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-10-23 11:07:27,333 87053340ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Islamabad Electric Supply Company-SearchTerm-0-10/10/2017 7:27:26 AM Completed
+INFO  2017-10-23 11:07:29,267 87055274ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Islamabad Electric Supply Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-23 11:08:08,973 87094981ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Islamabad Electric Supply Company-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2017-10-23 11:08:14,262 87100270ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Islamabad Electric Supply Company-SearchTerm-10/17/2017 5:31:48 AM Started
+INFO  2017-10-23 11:08:23,629 87109636ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Islamabad Electric Supply Company-SearchTerm-0-10/17/2017 5:31:48 AM Completed
+INFO  2017-10-23 11:08:26,700 87112708ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Islamabad Electric Supply Company-SearchTerm-10/13/2017 6:23:26 AM Started
+INFO  2017-10-23 11:08:45,849 87131857ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Islamabad Electric Supply Company-SearchTerm-0-10/23/2017 5:07:33 AM Completed
+INFO  2017-10-23 11:08:48,038 87134046ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Islamabad Electric Supply Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-23 11:09:33,963 87179970ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Islamabad Electric Supply Company-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2017-10-23 11:09:36,518 87182526ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Islamabad Electric Supply Company-SearchTerm-10/13/2017 7:05:59 AM Started
+INFO  2017-10-23 11:09:40,011 87186019ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/23/2017 5:37:18 AM Completed
+INFO  2017-10-23 11:09:41,838 87187846ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-10-23 11:09:50,734 87196741ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Islamabad Electric Supply Company-SearchTerm-0-10/23/2017 5:21:59 AM Completed
+INFO  2017-10-23 11:09:52,637 87198644ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Islamabad Electric Supply Company-SearchTerm-10/20/2017 2:50:55 PM Started
+INFO  2017-10-23 11:09:57,437 87203445ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Islamabad Electric Supply Company-SearchTerm-0-10/20/2017 2:50:55 PM Completed
+INFO  2017-10-23 11:09:58,633 87204641ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Islamabad Electric Supply Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-23 11:10:11,161 87217169ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-9/1/2017 12:00:00 AM Completed
+INFO  2017-10-23 11:10:12,612 87218620ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-10/20/2017 6:53:01 AM Started
+INFO  2017-10-23 11:10:29,703 87235711ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-10/23/2017 5:37:18 AM Completed
+INFO  2017-10-23 11:10:31,630 87237638ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-China KElectric-SearchTerm-10/20/2017 6:53:01 AM Started
+INFO  2017-10-23 11:10:35,677 87241684ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Islamabad Electric Supply Company-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2017-10-23 11:10:37,824 87243831ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Islamabad Electric Supply Company-SearchTerm-10/19/2017 12:24:40 PM Started
+INFO  2017-10-23 11:10:41,069 87247076ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Islamabad Electric Supply Company-SearchTerm-0-10/19/2017 12:24:40 PM Completed
+INFO  2017-10-23 11:10:43,941 87249948ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-China KElectric-SearchTerm-0-10/23/2017 5:37:18 AM Completed
+INFO  2017-10-23 11:10:44,109 87250116ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Islamabad Electric Supply Company-SearchTerm-10/10/2017 8:38:01 PM Started
+INFO  2017-10-23 11:10:45,885 87251893ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-China KElectric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2017-10-23 11:10:56,055 87262062ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-China KElectric-SearchTerm-0-9/1/2017 12:00:00 AM Completed
+INFO  2017-10-23 11:10:57,990 87263997ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-China KElectric-SearchTerm-10/21/2017 8:21:44 PM Started
+INFO  2017-10-23 11:11:09,214 87275222ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-China KElectric-SearchTerm-0-10/23/2017 5:37:18 AM Completed
+INFO  2017-10-23 11:11:10,898 87276905ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-China KElectric-SearchTerm-10/21/2017 7:34:18 PM Started
+INFO  2017-10-23 11:11:17,547 87283554ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-China KElectric-SearchTerm-0-10/23/2017 6:09:56 AM Completed
+INFO  2017-10-23 11:11:20,374 87286382ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-China KElectric-SearchTerm-10/20/2017 9:37:08 AM Started
+INFO  2017-10-24 12:22:36,394 20865ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-10-24 12:22:48,447 32917ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Quetta Electric Supply Company-SearchTerm-10/20/2017 5:15:57 AM Started
+INFO  2017-10-24 12:22:59,284 43754ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Quetta Electric Supply Company-SearchTerm-0-10/24/2017 5:42:27 AM Completed
+INFO  2017-10-24 12:23:01,511 45981ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Quetta Electric Supply Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-24 12:26:02,533 227003ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Queued Persisting Feed 1 searchterm=Quetta Electric Supply Company Started
+INFO  2017-10-24 12:26:02,533 227003ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Quetta Electric Supply Company-SearchTerm-1-9/30/2017 12:00:00 AM Completed
+INFO  2017-10-24 12:26:02,543 227013ms FeedlyInfo             teOperationStarted - PersistFeeds-Persisting Feeds 1 searchterm=Quetta Electric Supply Company Started
+INFO  2017-10-24 12:26:03,973 228443ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Quetta Electric Supply Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-24 12:26:11,240 235711ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Quetta Electric Supply Company-SearchTerm-10/20/2017 3:32:35 AM Started
+INFO  2017-10-24 12:26:17,633 242103ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Quetta Electric Supply Company-SearchTerm-0-10/24/2017 1:34:45 AM Completed
+INFO  2017-10-24 12:26:19,983 244453ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/22/2017 2:02:35 AM Started
+INFO  2017-10-24 12:26:24,443 248913ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/24/2017 1:34:45 AM Completed
+INFO  2017-10-24 12:26:26,028 250498ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-24 12:26:29,415 253885ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-24 12:28:35,860 380330ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2017-10-24 12:28:38,500 382970ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/21/2017 2:21:19 AM Started
+INFO  2017-10-24 12:28:43,711 388181ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/24/2017 5:42:27 AM Completed
+INFO  2017-10-24 12:28:45,300 389770ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-24 12:28:48,689 393159ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-24 12:28:50,782 395252ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-24 12:30:55,212 519682ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/23/2017 6:50:07 PM Completed
+INFO  2017-10-24 12:30:57,192 521662ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/21/2017 4:05:40 AM Started
+INFO  2017-10-24 12:31:11,732 536202ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/24/2017 5:13:27 AM Completed
+INFO  2017-10-24 12:31:14,733 539203ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-24 12:31:18,570 543040ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-24 12:31:23,379 547849ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/22/2017 1:50:36 AM Started
+INFO  2017-10-24 12:31:34,043 558513ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/24/2017 7:10:31 AM Completed
+INFO  2017-10-24 12:31:36,965 561435ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-24 12:32:30,915 615385ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2017-10-24 12:32:31,747 616217ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-10-24 12:32:37,510 621980ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/10/2017 7:27:26 AM Started
+INFO  2017-10-24 12:32:45,562 630032ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/10/2017 7:27:26 AM Completed
+INFO  2017-10-24 12:32:48,934 633404ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/17/2017 5:31:48 AM Started
+INFO  2017-10-24 12:32:53,106 637576ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/17/2017 5:31:48 AM Completed
+INFO  2017-10-24 12:32:53,926 638396ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-10/20/2017 8:03:55 AM Started
+INFO  2017-10-24 12:32:55,050 639520ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/20/2017 6:14:01 AM Started
+INFO  2017-10-24 12:32:58,774 643244ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:02:37 AM Completed
+INFO  2017-10-24 12:33:00,764 645234ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-24 12:33:03,241 647711ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/24/2017 6:56:11 AM Completed
+INFO  2017-10-24 12:33:04,864 649334ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/20/2017 6:23:41 AM Started
+INFO  2017-10-24 12:33:13,457 657927ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/24/2017 7:15:58 AM Completed
+INFO  2017-10-24 12:33:14,501 658971ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-24 12:34:07,701 712171ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2017-10-24 12:34:09,405 713875ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2017-10-24 12:34:15,075 719545ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-10/20/2017 6:29:01 AM Started
+INFO  2017-10-24 12:34:15,091 719561ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/18/2017 12:00:00 AM Started
+INFO  2017-10-24 12:34:21,889 726359ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/20/2017 2:50:55 PM Completed
+INFO  2017-10-24 12:34:23,342 727812ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-24 12:34:32,118 736588ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:14:28 AM Completed
+INFO  2017-10-24 12:34:39,051 743521ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-24 12:34:53,797 758267ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2017-10-24 12:34:55,681 760151ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-10/20/2017 6:34:34 AM Started
+INFO  2017-10-24 12:35:14,207 778677ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2017-10-24 12:35:17,393 781863ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/19/2017 12:24:40 PM Started
+INFO  2017-10-24 12:35:21,171 785641ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/19/2017 12:24:40 PM Completed
+INFO  2017-10-24 12:35:23,802 788272ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/20/2017 6:18:06 AM Started
+INFO  2017-10-24 12:35:24,851 789321ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:18:00 AM Completed
+INFO  2017-10-24 12:35:28,227 792697ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-10/21/2017 11:30:15 PM Started
+INFO  2017-10-24 12:35:31,828 796298ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/23/2017 11:55:11 AM Completed
+INFO  2017-10-24 12:35:33,399 797869ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/23/2017 5:00:22 PM Completed
+INFO  2017-10-24 12:35:34,508 798978ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/23/2017 5:00:22 PM Completed
+INFO  2017-10-24 12:35:34,511 798981ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/24/2017 7:08:28 AM Completed
+INFO  2017-10-24 12:35:36,642 801112ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/20/2017 11:14:15 AM Started
+INFO  2017-10-24 12:35:36,642 801112ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/23/2017 5:00:22 PM Completed
+INFO  2017-10-24 12:35:38,739 803209ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/23/2017 5:00:22 PM Completed
+INFO  2017-10-24 12:35:41,318 805789ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 3:39:47 AM Completed
+INFO  2017-10-24 12:35:44,959 809429ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 3:39:47 AM Completed
+INFO  2017-10-24 12:35:44,960 809430ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/24/2017 11:27:00 AM Completed
+INFO  2017-10-24 12:35:46,431 810901ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 3:39:47 AM Completed
+INFO  2017-10-24 12:35:46,441 810911ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/20/2017 11:06:40 AM Started
+INFO  2017-10-24 12:35:47,646 812116ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 3:39:47 AM Completed
+INFO  2017-10-24 12:35:49,527 813997ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 3:39:47 AM Completed
+INFO  2017-10-24 12:35:51,590 816060ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:35:53,497 817967ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/23/2017 1:15:27 PM Completed
+INFO  2017-10-24 12:35:53,497 817967ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:35:55,961 820431ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:35:56,030 820500ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/21/2017 8:21:44 PM Started
+INFO  2017-10-24 12:35:58,479 822949ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:00,059 824529ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:05,264 829734ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:06,774 831244ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/24/2017 7:28:39 AM Completed
+INFO  2017-10-24 12:36:08,180 832650ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:09,645 834115ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/18/2017 8:32:47 AM Started
+INFO  2017-10-24 12:36:11,215 835685ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:13,509 837979ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:13,522 837992ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/23/2017 1:05:04 PM Completed
+INFO  2017-10-24 12:36:15,151 839621ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:15,597 840067ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/20/2017 6:45:00 AM Started
+INFO  2017-10-24 12:36:17,023 841493ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:19,314 843784ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/24/2017 11:31:00 AM Completed
+INFO  2017-10-24 12:36:19,314 843784ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:20,688 845158ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:21,260 845730ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/19/2017 12:00:00 AM Started
+INFO  2017-10-24 12:36:22,956 847426ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:25,291 849761ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/23/2017 4:00:09 AM Completed
+INFO  2017-10-24 12:36:25,406 849876ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:26,577 851047ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:27,073 851543ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/20/2017 12:00:00 AM Started
+INFO  2017-10-24 12:36:28,342 852812ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:30,444 854914ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:32,110 856580ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/24/2017 12:00:00 AM Completed
+INFO  2017-10-24 12:36:32,359 856829ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:34,510 858980ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:34,587 859057ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/21/2017 3:36:22 AM Started
+INFO  2017-10-24 12:36:37,310 861780ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:37,741 862211ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/24/2017 7:07:30 AM Completed
+INFO  2017-10-24 12:36:38,975 863445ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-24 12:36:38,998 863468ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:41,595 866065ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:43,796 868266ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:45,199 869669ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:46,686 871157ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:48,607 873078ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:50,880 875351ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:52,922 877392ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:55,518 879988ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:56,741 881211ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:58,289 882759ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:36:58,704 883174ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2017-10-24 12:37:00,662 885132ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-24 12:37:02,687 887157ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:06,081 890551ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:08,950 893420ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:10,773 895243ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:12,184 896654ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:14,666 899136ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:16,133 900603ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:20,204 904674ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:21,949 906419ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:23,145 907615ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:24,653 909123ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2017-10-24 12:37:24,653 909123ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:25,720 910190ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:26,794 911264ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-10/20/2017 5:07:27 AM Started
+INFO  2017-10-24 12:37:31,313 915783ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-0-10/24/2017 4:20:17 AM Completed
+INFO  2017-10-24 12:37:34,653 919123ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Sukkar Electric Power Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-24 12:37:36,492 920962ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:37,904 922374ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:39,679 924150ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:41,208 925679ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:44,095 928565ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:46,308 930778ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:48,899 933369ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:50,659 935129ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:53,713 938183ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:56,308 940778ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:37:58,866 943336ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:38:00,373 944843ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:38:02,619 947089ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:38:04,986 949456ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:38:07,353 951823ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:38:09,153 953623ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:38:11,954 956424ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:38:14,369 958839ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:38:16,535 961005ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:38:22,412 966882ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:38:24,272 968742ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:38:25,910 970380ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:38:29,297 973767ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:38:32,553 977023ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:38:35,074 979544ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:38:37,235 981705ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:38:40,213 984683ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:38:43,175 987645ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:38:45,617 990087ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 6:30:20 AM Completed
+INFO  2017-10-24 12:38:47,399 991869ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:12:08 AM Completed
+INFO  2017-10-24 12:38:48,974 993444ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:12:08 AM Completed
+INFO  2017-10-24 12:38:51,161 995631ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:12:08 AM Completed
+INFO  2017-10-24 12:38:55,188 999658ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:12:08 AM Completed
+INFO  2017-10-24 12:38:57,998 1002468ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:12:08 AM Completed
+INFO  2017-10-24 12:39:01,065 1005535ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:12:08 AM Completed
+INFO  2017-10-24 12:39:13,069 1017539ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:12:08 AM Completed
+INFO  2017-10-24 12:39:17,364 1021834ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:12:08 AM Completed
+INFO  2017-10-24 12:39:24,432 1028903ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:12:08 AM Completed
+INFO  2017-10-24 12:39:25,453 1029924ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:12:08 AM Completed
+INFO  2017-10-24 12:39:27,318 1031788ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:12:08 AM Completed
+INFO  2017-10-24 12:39:28,927 1033397ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:12:08 AM Completed
+INFO  2017-10-24 12:39:30,430 1034900ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:12:08 AM Completed
+INFO  2017-10-24 12:39:31,765 1036235ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:12:08 AM Completed
+INFO  2017-10-24 12:39:33,451 1037921ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:12:08 AM Completed
+INFO  2017-10-24 12:39:35,673 1040143ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:12:08 AM Completed
+INFO  2017-10-24 12:39:37,635 1042105ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:12:08 AM Completed
+INFO  2017-10-24 12:39:49,277 1053747ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-10/20/2017 6:33:54 AM Started
+INFO  2017-10-24 12:40:05,147 1069617ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-0-10/24/2017 7:18:00 AM Completed
+INFO  2017-10-24 12:40:06,047 1070517ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-WAPDA-SearchTerm-10/21/2017 8:21:44 PM Started
+INFO  2017-10-24 12:40:18,347 1082817ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-WAPDA-SearchTerm-0-10/24/2017 7:28:39 AM Completed
+INFO  2017-10-24 12:40:19,192 1083662ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-WAPDA-SearchTerm-10/20/2017 6:33:54 AM Started
+INFO  2017-10-24 12:41:43,402 1167872ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-WAPDA-SearchTerm-0-10/24/2017 7:18:00 AM Completed
+INFO  2017-10-24 12:41:45,602 1170072ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-WAPDA-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-24 12:41:55,382 1179852ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-WAPDA-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2017-10-24 12:41:56,854 1181324ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-WAPDA-SearchTerm-10/20/2017 6:29:01 AM Started
+INFO  2017-10-24 12:42:09,121 1193592ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-WAPDA-SearchTerm-0-10/24/2017 7:14:28 AM Completed
+INFO  2017-10-24 12:42:10,218 1194688ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-WAPDA-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2017-10-24 12:42:31,573 1216043ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2017-10-24 12:42:51,153 1235623ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-24 12:23:56,507  9767ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-01-24 12:24:08,391 21652ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Multan Electric Power Company-SearchTerm-1/23/2018 2:23:26 AM Started
+INFO  2018-01-24 12:24:34,496 47757ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Multan Electric Power Company-SearchTerm-0-1/24/2018 10:44:51 AM Completed
+INFO  2018-01-24 12:24:35,693 48953ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Multan Electric Power Company-SearchTerm-1/21/2018 6:36:51 PM Started
+INFO  2018-01-24 13:06:02,639  5474ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-01-24 13:08:30,998  1582ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-01-24 13:09:01,694 32278ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-KElectric-SearchTerm-1/23/2018 6:56:39 PM Started
+INFO  2018-01-24 13:09:25,647 56230ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-KElectric-SearchTerm-0-1/24/2018 8:04:30 AM Completed
+INFO  2018-01-24 13:09:29,120 59703ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-KElectric-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-24 13:10:16,867 107450ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-KElectric-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2018-01-24 13:10:21,173 111757ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-KElectric-SearchTerm-1/23/2018 1:50:00 PM Started
+INFO  2018-01-24 13:10:54,902 145486ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-KElectric-SearchTerm-0-1/24/2018 8:59:00 AM Completed
+INFO  2018-01-24 13:11:00,397 150981ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-KElectric-SearchTerm-1/24/2018 4:35:49 AM Started
+INFO  2018-01-24 13:11:17,194 167777ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-KElectric-SearchTerm-0-1/24/2018 11:46:00 AM Completed
+INFO  2018-01-24 13:11:19,952 170536ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-KElectric-SearchTerm-11/15/2017 3:41:02 PM Started
+INFO  2018-01-24 13:16:43,022  5863ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-01-24 13:17:03,282 26123ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-1/22/2018 1:06:24 PM Started
+INFO  2018-01-24 13:17:09,988 32829ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-1/23/2018 10:13:40 AM Completed
+INFO  2018-01-24 13:17:11,018 33859ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-24 13:17:30,933 53774ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2018-01-24 13:17:31,800 54641ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-1/22/2018 11:41:35 PM Started
+INFO  2018-01-24 13:17:36,135 58975ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-1/24/2018 8:05:07 AM Completed
+INFO  2018-01-24 13:17:37,035 59875ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-24 13:18:02,083 84924ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2018-01-24 13:18:04,149 86990ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Quetta Electric Supply Company-SearchTerm-1/20/2018 7:44:54 PM Started
+INFO  2018-01-24 13:18:15,639 98479ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Quetta Electric Supply Company-SearchTerm-0-1/24/2018 7:56:36 AM Completed
+INFO  2018-01-24 13:18:17,620 100461ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Quetta Electric Supply Company-SearchTerm-1/20/2018 7:44:54 PM Started
+INFO  2018-01-24 13:18:27,623 110464ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Quetta Electric Supply Company-SearchTerm-0-1/24/2018 8:11:54 AM Completed
+INFO  2018-01-24 13:18:29,219 112060ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Quetta Electric Supply Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-24 13:18:35,572 118412ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Quetta Electric Supply Company-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2018-01-24 13:18:37,345 120186ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Quetta Electric Supply Company-SearchTerm-1/22/2018 10:27:19 PM Started
+INFO  2018-01-24 13:18:41,393 124234ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Quetta Electric Supply Company-SearchTerm-0-1/24/2018 8:59:00 AM Completed
+INFO  2018-01-24 13:18:43,414 126255ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Quetta Electric Supply Company-SearchTerm-1/20/2018 11:03:16 PM Started
+INFO  2018-01-24 13:18:47,876 130717ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Quetta Electric Supply Company-SearchTerm-0-1/24/2018 11:46:00 AM Completed
+INFO  2018-01-24 13:18:49,267 132108ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Quetta Electric Supply Company-SearchTerm-11/15/2017 3:41:02 PM Started
+INFO  2018-01-24 17:34:42,877 26788ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-01-24 17:35:06,244 50156ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Thar power Plant-SearchTerm-1/22/2018 6:52:21 PM Started
+INFO  2018-01-24 18:19:46,699  2927ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-01-24 18:20:00,704 16931ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Lahore Electric Supply Company-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-25 11:46:19,373 13363ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-01-25 11:49:21,358 195349ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/24/2018 8:06:00 PM Started
+INFO  2018-01-25 11:49:27,511 201502ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/24/2018 8:06:00 PM Completed
+INFO  2018-01-25 11:49:29,847 203838ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/25/2018 9:44:00 AM Started
+INFO  2018-01-25 11:49:32,743 206733ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/25/2018 9:44:00 AM Completed
+INFO  2018-01-25 11:49:34,321 208311ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-25 11:49:37,515 211506ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-25 11:49:40,912 214903ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/25/2018 5:06:37 AM Started
+INFO  2018-01-25 11:49:43,711 217702ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/25/2018 5:06:37 AM Completed
+INFO  2018-01-25 11:49:45,129 219120ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/25/2018 5:08:25 AM Started
+INFO  2018-01-25 11:49:47,962 221953ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/25/2018 6:33:41 AM Completed
+INFO  2018-01-25 11:49:49,749 223739ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-25 11:49:52,357 226347ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/25/2018 12:33:44 AM Started
+INFO  2018-01-25 11:49:55,366 229357ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/25/2018 12:33:44 AM Completed
+INFO  2018-01-25 11:49:56,303 230294ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-25 11:50:02,506 236497ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/25/2018 4:34:29 AM Started
+INFO  2018-01-25 11:50:04,686 238677ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/25/2018 4:34:29 AM Completed
+INFO  2018-01-25 11:50:05,685 239675ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/25/2018 4:35:17 AM Started
+INFO  2018-01-25 11:50:08,526 242516ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/25/2018 4:35:17 AM Completed
+INFO  2018-01-25 11:50:09,452 243442ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-25 11:50:12,053 246044ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/24/2018 6:51:30 PM Started
+INFO  2018-01-25 11:50:18,677 252668ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/24/2018 6:51:30 PM Completed
+INFO  2018-01-25 11:50:19,394 253385ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/25/2018 4:56:18 AM Started
+INFO  2018-01-25 11:50:21,456 255447ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/25/2018 6:30:14 AM Completed
+INFO  2018-01-25 11:50:22,233 256224ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/25/2018 8:53:00 AM Started
+INFO  2018-01-25 11:50:24,985 258975ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/25/2018 10:47:00 AM Completed
+INFO  2018-01-25 11:50:25,751 259741ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/23/2018 1:06:47 PM Started
+INFO  2018-01-25 11:50:27,774 261764ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/23/2018 1:06:47 PM Completed
+INFO  2018-01-25 11:50:28,503 262494ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/25/2018 3:32:52 AM Started
+INFO  2018-01-25 11:50:31,089 265080ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/25/2018 5:55:02 AM Completed
+INFO  2018-01-25 11:50:31,944 265935ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/24/2018 12:49:24 PM Started
+INFO  2018-01-25 11:50:34,338 268329ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/24/2018 12:49:24 PM Completed
+INFO  2018-01-25 11:50:35,105 269096ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/25/2018 2:37:43 AM Started
+INFO  2018-01-25 11:50:38,122 272113ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/25/2018 2:37:43 AM Completed
+INFO  2018-01-25 11:50:38,979 272970ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/23/2018 10:38:29 AM Started
+INFO  2018-01-25 11:50:41,419 275409ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/23/2018 10:38:29 AM Completed
+INFO  2018-01-25 11:50:42,176 276166ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-25 11:51:06,393 300384ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2018-01-25 11:51:07,168 301159ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/25/2018 5:00:03 AM Started
+INFO  2018-01-25 11:51:10,326 304317ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/25/2018 6:00:38 AM Completed
+INFO  2018-01-25 11:51:11,124 305115ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-25 11:51:40,176 334167ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2018-01-25 11:51:42,128 336119ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/23/2018 10:13:40 AM Started
+INFO  2018-01-25 11:51:44,677 338668ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/23/2018 10:13:40 AM Completed
+INFO  2018-01-25 11:51:46,194 340185ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/21/2018 4:38:11 PM Started
+INFO  2018-01-25 11:51:49,109 343100ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/24/2018 6:43:45 AM Completed
+INFO  2018-01-25 11:51:50,006 343997ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-25 11:52:09,505 363495ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2018-01-25 11:52:10,838 364828ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-25 11:56:15,611 609601ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-01-25 12:11:54,585 1548576ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/25/2018 4:56:16 AM Started
+INFO  2018-01-25 12:11:56,033 1550024ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-1/24/2018 6:51:30 PM Started
+INFO  2018-01-25 12:11:57,989 1551979ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/25/2018 4:56:16 AM Completed
+INFO  2018-01-25 12:11:59,113 1553103ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-12/5/2017 1:30:10 PM Started
+INFO  2018-01-25 12:12:02,232 1556223ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-12/5/2017 1:30:10 PM Completed
+INFO  2018-01-25 12:12:02,923 1556914ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-25 12:12:04,288 1558279ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-1/24/2018 6:51:30 PM Completed
+INFO  2018-01-25 12:12:05,145 1559136ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-25 12:12:07,423 1561414ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-1/25/2018 8:53:00 AM Started
+INFO  2018-01-25 12:12:10,464 1564455ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-1/25/2018 10:47:00 AM Completed
+INFO  2018-01-25 12:12:11,416 1565407ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-1/23/2018 1:06:47 PM Started
+INFO  2018-01-25 12:12:14,306 1568297ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-1/23/2018 1:06:47 PM Completed
+INFO  2018-01-25 12:12:15,751 1569741ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-1/25/2018 3:32:52 AM Started
+INFO  2018-01-25 12:12:18,009 1571999ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-1/25/2018 5:55:02 AM Completed
+INFO  2018-01-25 12:12:18,771 1572761ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-1/24/2018 12:49:24 PM Started
+INFO  2018-01-25 12:12:20,844 1574835ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-1/24/2018 12:49:24 PM Completed
+INFO  2018-01-25 12:12:21,757 1575748ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-1/25/2018 2:37:43 AM Started
+INFO  2018-01-25 12:12:24,596 1578587ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-1/25/2018 2:37:43 AM Completed
+INFO  2018-01-25 12:12:25,621 1579612ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-1/25/2018 12:33:44 AM Started
+INFO  2018-01-25 12:12:28,438 1582429ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-1/25/2018 12:33:44 AM Completed
+INFO  2018-01-25 12:12:29,317 1583308ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2018-01-25 12:12:29,626 1583617ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-25 12:12:30,437 1584428ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-1/25/2018 4:50:36 AM Started
+INFO  2018-01-25 12:12:32,868 1586858ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-1/25/2018 5:39:42 AM Completed
+INFO  2018-01-25 12:12:34,466 1588456ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-11/15/2017 3:41:02 PM Started
+INFO  2018-01-25 12:12:48,850 1602841ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2018-01-25 12:12:49,751 1603741ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-1/25/2018 5:00:03 AM Started
+INFO  2018-01-25 12:12:52,210 1606200ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-1/25/2018 7:08:54 AM Completed
+INFO  2018-01-25 12:12:53,046 1607036ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-25 12:13:18,759 1632750ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2018-01-25 12:13:19,703 1633694ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-1/23/2018 10:13:40 AM Started
+INFO  2018-01-25 12:13:22,437 1636428ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-1/23/2018 10:13:40 AM Completed
+INFO  2018-01-25 12:13:23,162 1637153ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-1/24/2018 6:43:45 AM Started
+INFO  2018-01-25 12:13:26,457 1640447ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-1/24/2018 6:43:45 AM Completed
+INFO  2018-01-25 12:13:27,588 1641578ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-1/25/2018 4:56:18 AM Started
+INFO  2018-01-25 12:13:30,028 1644019ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-0-1/25/2018 6:54:54 AM Completed
+INFO  2018-01-25 12:13:30,935 1644926ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Power Distribution Authority-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-25 12:16:15,546 1809537ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-01-25 12:28:39,114  7917ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-01-25 12:28:53,160 21963ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????-SearchTerm-1/25/2018 4:50:36 AM Started
+INFO  2018-01-25 14:11:33,901  4724ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-01-26 15:11:11,662 26626ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-01-26 15:11:43,285 58249ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ???????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-01-26 15:14:31,800  3737ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-01-26 15:22:31,502  4310ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-01-26 15:22:57,157 29965ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Abraaj-SearchTerm-1/22/2018 11:41:35 PM Started
+INFO  2018-01-26 15:24:06,488  1973ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-02-16 16:21:01,666  9871ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-02-16 16:21:09,466 17671ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-08 15:01:48,088 17941ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-03-08 15:02:28,417 58270ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/21/2018 11:21:07 PM Started
+INFO  2018-03-08 15:02:47,892 77745ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/8/2018 9:25:29 AM Completed
+INFO  2018-03-08 15:02:50,204 80058ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-03-08 15:02:52,885 82738ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/25/2018 8:56:27 PM Started
+INFO  2018-03-08 15:03:03,873 93726ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/8/2018 8:29:16 AM Completed
+INFO  2018-03-08 15:03:08,429 98282ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-03-08 15:03:14,841 104694ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/25/2018 6:02:53 PM Started
+INFO  2018-03-08 15:03:20,461 110314ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/8/2018 8:57:11 AM Completed
+INFO  2018-03-08 15:03:23,547 113400ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/21/2018 10:02:50 PM Started
+INFO  2018-03-08 15:03:36,431 126284ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/8/2018 8:36:02 AM Completed
+INFO  2018-03-08 15:03:37,892 127745ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-03-08 15:03:42,336 132189ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/25/2018 2:30:24 PM Started
+INFO  2018-03-08 15:03:53,326 143179ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/7/2018 6:40:07 PM Completed
+INFO  2018-03-08 15:03:54,623 144476ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/21/2018 11:35:24 PM Started
+INFO  2018-03-08 15:04:32,912 182765ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/8/2018 9:34:57 AM Completed
+INFO  2018-03-08 15:04:34,313 184166ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/23/2018 2:05:00 AM Started
+INFO  2018-03-08 15:04:47,256 197109ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/8/2018 1:06:00 PM Completed
+INFO  2018-03-08 15:04:48,782 198635ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/16/2018 8:43:21 AM Started
+INFO  2018-03-08 15:04:53,318 203171ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/4/2018 6:00:11 AM Completed
+INFO  2018-03-08 15:04:54,443 204296ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/25/2018 8:46:23 PM Started
+INFO  2018-03-08 15:05:12,527 222380ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/8/2018 9:04:28 AM Completed
+INFO  2018-03-08 15:05:15,314 225167ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/24/2018 9:50:47 AM Started
+INFO  2018-03-08 15:05:18,992 228845ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/5/2018 11:19:01 AM Completed
+INFO  2018-03-08 15:05:20,725 230578ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/25/2018 5:46:47 PM Started
+INFO  2018-03-08 15:05:26,154 236007ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/8/2018 12:26:24 PM Completed
+INFO  2018-03-08 15:05:29,097 238950ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/21/2018 7:42:53 AM Started
+INFO  2018-03-08 15:05:36,595 246448ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-2/21/2018 7:42:53 AM Completed
+INFO  2018-03-08 15:05:39,025 248878ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-03-08 15:06:06,088 275941ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2018-03-08 15:06:08,388 278241ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/25/2018 7:24:13 PM Started
+INFO  2018-03-08 15:06:21,066 290919ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/8/2018 9:02:18 AM Completed
+INFO  2018-03-08 15:06:23,061 292914ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-03-08 15:06:55,905 325758ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2018-03-08 15:06:56,800 326653ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/23/2018 10:41:32 AM Started
+INFO  2018-03-08 15:07:01,428 331281ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/7/2018 11:52:48 AM Completed
+INFO  2018-03-08 15:07:02,549 332402ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/23/2018 6:34:44 AM Started
+INFO  2018-03-08 15:07:05,834 335687ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/5/2018 8:32:53 AM Completed
+INFO  2018-03-08 15:07:07,071 336924ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/9/2018 3:21:00 PM Started
+INFO  2018-03-08 15:07:10,419 340273ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-2/9/2018 3:21:00 PM Completed
+INFO  2018-03-08 15:07:11,915 341768ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/25/2018 8:31:57 PM Started
+INFO  2018-03-08 15:07:20,466 350319ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/8/2018 9:48:12 AM Completed
+INFO  2018-03-08 15:07:21,773 351626ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/25/2018 3:05:17 PM Started
+INFO  2018-03-08 15:07:28,801 358654ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/8/2018 7:03:06 AM Completed
+INFO  2018-03-08 15:07:29,757 359610ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/20/2018 12:47:46 PM Started
+INFO  2018-03-08 15:07:33,940 363793ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-2/20/2018 12:47:46 PM Completed
+INFO  2018-03-08 15:07:35,584 365437ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-03-08 15:08:02,745 392598ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2018-03-08 15:08:04,886 394739ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/25/2018 11:35:06 PM Started
+INFO  2018-03-08 15:08:13,218 403071ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/8/2018 8:28:16 AM Completed
+INFO  2018-03-08 15:08:14,487 404340ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-11/15/2017 3:41:02 PM Started
+INFO  2018-03-08 15:08:33,383 423236ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-03-08 15:09:14,243 464096ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-9/30/2017 12:00:00 AM Completed
+INFO  2018-03-08 15:09:15,122 464975ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/21/2018 12:00:00 AM Started
+INFO  2018-03-08 15:09:36,214 486067ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/8/2018 12:00:00 AM Completed
+INFO  2018-03-08 15:09:38,833 488686ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/23/2018 12:00:00 AM Started
+INFO  2018-03-08 15:09:43,863 493716ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/7/2018 4:07:15 AM Completed
+INFO  2018-03-08 15:09:44,750 494603ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-9/30/2017 12:00:00 AM Started
+INFO  2018-03-08 15:09:56,654 506507ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-2/24/2018 11:07:09 PM Started
+INFO  2018-03-08 15:10:00,431 510285ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-????? ??????? ?????? ?????-SearchTerm-0-3/8/2018 10:08:28 AM Completed
+INFO  2018-03-08 15:10:01,225 511078ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-2/25/2018 11:51:38 PM Started
+INFO  2018-03-08 15:10:24,497 534350ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-3/8/2018 10:01:35 AM Completed
+INFO  2018-03-08 15:10:25,371 535224ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-2/26/2018 12:03:23 AM Started
+INFO  2018-03-08 15:10:58,796 568649ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-3/8/2018 10:04:22 AM Completed
+INFO  2018-03-08 15:11:00,388 570242ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-9/1/2017 12:00:00 AM Started
+INFO  2018-03-08 15:11:08,984 578837ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-0-9/1/2017 12:00:00 AM Completed
+INFO  2018-03-08 15:11:11,397 581250ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Buy KElectric-SearchTerm-2/24/2018 9:21:29 AM Started
+INFO  2018-03-14 16:34:55,921 27651ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-03-14 16:35:08,545 40275ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#sharetheload-SearchTerm-2/20/2018 7:57:00 PM Started
+INFO  2018-03-14 16:35:45,596 77326ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-#sharetheload-SearchTerm-0-3/14/2018 7:23:00 AM Completed
+INFO  2018-03-14 16:35:46,701 78431ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#likeagirl-SearchTerm-2/21/2018 4:26:28 AM Started
+INFO  2018-03-14 16:36:05,669 97399ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-#likeagirl-SearchTerm-0-3/14/2018 10:58:02 AM Completed
+INFO  2018-03-14 16:36:05,717 97447ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#myfutestartstoday-SearchTerm-2/21/2018 4:26:28 AM Started
+INFO  2018-03-14 16:36:27,293 119023ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-#myfutestartstoday-SearchTerm-0-3/14/2018 10:58:02 AM Completed
+INFO  2018-03-14 16:36:27,318 119048ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#myfuturestartstoday-SearchTerm-2/21/2018 4:26:28 AM Started
+INFO  2018-03-14 16:36:35,025 126755ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-#myfuturestartstoday-SearchTerm-0-3/14/2018 10:58:02 AM Completed
+INFO  2018-03-14 16:36:35,046 126776ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#sharetheload-SearchTerm-2/21/2018 4:26:28 AM Started
+INFO  2018-03-14 16:36:47,778 139508ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-#sharetheload-SearchTerm-0-3/14/2018 10:58:02 AM Completed
+INFO  2018-03-14 16:36:47,827 139557ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#likeagirl-SearchTerm-2/21/2018 7:05:48 AM Started
+INFO  2018-03-14 16:40:44,274 376004ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-#likeagirl-SearchTerm-0-3/14/2018 11:24:05 AM Completed
+INFO  2018-03-14 16:40:44,300 376030ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#myfutestartstoday-SearchTerm-2/21/2018 7:05:48 AM Started
+INFO  2018-03-14 16:42:18,276 470006ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-#myfutestartstoday-SearchTerm-0-3/14/2018 11:24:05 AM Completed
+INFO  2018-03-14 16:42:18,292 470022ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#myfuturestartstoday-SearchTerm-2/21/2018 7:05:48 AM Started
+INFO  2018-03-14 16:43:27,487 539217ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-#myfuturestartstoday-SearchTerm-0-3/14/2018 11:24:05 AM Completed
+INFO  2018-03-14 16:43:27,507 539237ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#sharetheload-SearchTerm-2/21/2018 7:05:48 AM Started
+INFO  2018-03-14 16:44:17,107 588837ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-#sharetheload-SearchTerm-0-3/14/2018 11:38:50 AM Completed
+INFO  2018-03-14 16:44:17,125 588855ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#likeagirl-SearchTerm-2/21/2018 6:57:00 AM Started
+INFO  2018-03-14 16:44:52,503 624233ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-03-14 16:44:53,307 625037ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#likeagirl-SearchTerm-2/21/2018 6:57:00 AM Started
+INFO  2018-03-14 16:44:54,978 626708ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-#likeagirl-SearchTerm-0-3/14/2018 11:24:05 AM Completed
+INFO  2018-03-14 16:44:55,150 626880ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#myfutestartstoday-SearchTerm-2/21/2018 6:57:00 AM Started
+INFO  2018-03-14 16:45:38,040 669769ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-#likeagirl-SearchTerm-0-3/14/2018 11:24:05 AM Completed
+INFO  2018-03-14 16:45:39,021 670750ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#myfutestartstoday-SearchTerm-2/21/2018 6:57:00 AM Started
+INFO  2018-03-14 16:45:42,121 673851ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-#myfutestartstoday-SearchTerm-0-3/14/2018 11:24:05 AM Completed
+INFO  2018-03-14 16:45:42,244 673974ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#myfuturestartstoday-SearchTerm-2/21/2018 6:57:00 AM Started
+INFO  2018-03-14 16:46:16,923 708652ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-#myfutestartstoday-SearchTerm-0-3/14/2018 11:24:05 AM Completed
+INFO  2018-03-14 16:46:17,430 709159ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#myfuturestartstoday-SearchTerm-2/21/2018 6:57:00 AM Started
+INFO  2018-03-14 16:46:17,889 709618ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-#myfuturestartstoday-SearchTerm-0-3/14/2018 11:24:05 AM Completed
+INFO  2018-03-14 16:46:18,155 709884ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#sharetheload-SearchTerm-2/21/2018 6:57:00 AM Started
+INFO  2018-03-14 16:46:53,286 745016ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-#myfuturestartstoday-SearchTerm-0-3/14/2018 11:24:05 AM Completed
+INFO  2018-03-14 16:46:53,566 745296ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#sharetheload-SearchTerm-2/21/2018 6:57:00 AM Started
+INFO  2018-03-14 16:46:56,349 748079ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-#sharetheload-SearchTerm-0-3/14/2018 11:24:05 AM Completed
+INFO  2018-03-14 16:46:56,454 748184ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#likeagirl-SearchTerm-2/19/2018 12:00:00 AM Started
+INFO  2018-03-14 16:46:57,315 749044ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#myfuturestartstoday-SearchTerm-2/19/2018 12:00:00 AM Started
+INFO  2018-03-14 16:46:59,226 750955ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/16/2018 10:37:27 AM Started
+INFO  2018-03-14 16:47:02,387 754117ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/11/2018 6:00:56 AM Completed
+INFO  2018-03-14 16:47:02,521 754251ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:04:56 AM Started
+INFO  2018-03-14 16:47:29,513 781242ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 11:24:05 AM Completed
+INFO  2018-03-14 16:47:29,607 781336ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/16/2018 8:43:21 AM Started
+INFO  2018-03-14 16:47:32,546 784276ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-#sharetheload-SearchTerm-0-3/14/2018 11:24:05 AM Completed
+INFO  2018-03-14 16:47:32,651 784381ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#likeagirl-SearchTerm-2/19/2018 12:00:00 AM Started
+INFO  2018-03-14 16:47:36,791 788520ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/12/2018 11:58:58 AM Completed
+INFO  2018-03-14 16:47:36,853 788582ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-#myfuturestartstoday-SearchTerm-2/19/2018 12:00:00 AM Started
+INFO  2018-03-14 16:47:36,912 788641ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 9:51:28 AM Started
+INFO  2018-03-14 16:47:38,066 789795ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/16/2018 10:37:27 AM Started
+INFO  2018-03-14 16:47:39,675 791404ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/11/2018 6:00:56 AM Completed
+INFO  2018-03-14 16:47:39,708 791437ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:04:56 AM Started
+INFO  2018-03-14 16:47:53,813 805543ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 3:36:00 PM Completed
+INFO  2018-03-14 16:47:53,900 805630ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:57:00 AM Started
+INFO  2018-03-14 16:48:02,178 813908ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 11:24:05 AM Completed
+INFO  2018-03-14 16:48:02,213 813943ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/16/2018 8:43:21 AM Started
+INFO  2018-03-14 16:48:04,629 816359ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/12/2018 11:58:58 AM Completed
+INFO  2018-03-14 16:48:04,701 816431ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 9:51:28 AM Started
+INFO  2018-03-14 16:48:20,703 832432ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 3:36:00 PM Completed
+INFO  2018-03-14 16:48:21,053 832782ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:57:00 AM Started
+INFO  2018-03-14 16:48:24,387 836117ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 10:43:05 AM Completed
+INFO  2018-03-14 16:48:24,426 836156ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:47:22 AM Started
+INFO  2018-03-14 16:48:40,180 851909ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 10:43:05 AM Completed
+INFO  2018-03-14 16:48:40,218 851947ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:47:22 AM Started
+INFO  2018-03-14 16:49:12,251 883981ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 11:38:50 AM Completed
+INFO  2018-03-14 16:49:12,308 884038ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:47:22 AM Started
+INFO  2018-03-14 16:49:17,601 889330ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 11:38:50 AM Completed
+INFO  2018-03-14 16:49:17,763 889492ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:47:22 AM Started
+INFO  2018-03-14 16:49:41,212 912941ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 10:20:59 AM Completed
+INFO  2018-03-14 16:49:41,234 912964ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:04:56 AM Started
+INFO  2018-03-14 16:49:46,276 918006ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 10:20:59 AM Completed
+INFO  2018-03-14 16:49:46,305 918035ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:04:56 AM Started
+INFO  2018-03-14 16:50:07,912 939641ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 11:24:05 AM Completed
+INFO  2018-03-14 16:50:07,939 939668ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/20/2018 9:39:20 AM Started
+INFO  2018-03-14 16:50:08,323 940052ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 11:24:05 AM Completed
+INFO  2018-03-14 16:50:08,343 940072ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/20/2018 9:39:20 AM Started
+INFO  2018-03-14 16:50:11,501 943231ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/13/2018 12:27:32 PM Completed
+INFO  2018-03-14 16:50:11,735 943465ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-14 16:50:12,168 943898ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/13/2018 12:27:32 PM Completed
+INFO  2018-03-14 16:50:12,321 944051ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-14 16:50:13,721 945451ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/5/2018 6:23:00 PM Completed
+INFO  2018-03-14 16:50:13,744 945474ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/5/2018 6:23:00 PM Completed
+INFO  2018-03-14 16:50:13,775 945505ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:19:54 AM Started
+INFO  2018-03-14 16:50:13,828 945558ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:19:54 AM Started
+INFO  2018-03-14 16:50:16,185 947915ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 11:20:29 AM Completed
+INFO  2018-03-14 16:50:16,188 947918ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 11:20:29 AM Completed
+INFO  2018-03-14 16:50:16,213 947943ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-14 16:50:16,225 947955ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-14 16:50:19,920 951649ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/4/2018 12:54:00 PM Completed
+INFO  2018-03-14 16:50:20,307 952036ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 5:00:30 AM Started
+INFO  2018-03-14 16:50:20,877 952606ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/4/2018 12:54:00 PM Completed
+INFO  2018-03-14 16:50:20,978 952707ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 5:00:30 AM Started
+INFO  2018-03-14 16:50:22,044 953774ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/13/2018 2:26:44 PM Completed
+INFO  2018-03-14 16:50:22,236 953966ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/20/2018 4:46:49 PM Started
+INFO  2018-03-14 16:50:23,432 955162ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/13/2018 2:26:44 PM Completed
+INFO  2018-03-14 16:50:23,505 955235ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/20/2018 4:46:49 PM Started
+INFO  2018-03-14 16:50:27,431 959160ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/13/2018 10:01:33 AM Completed
+INFO  2018-03-14 16:50:27,535 959264ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-14 16:50:28,085 959814ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/13/2018 10:01:33 AM Completed
+INFO  2018-03-14 16:50:28,111 959840ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-14 16:50:52,516 984246ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-2/14/2018 10:54:21 AM Completed
+INFO  2018-03-14 16:50:52,560 984290ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:54:56 AM Started
+INFO  2018-03-14 16:50:52,571 984301ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-2/14/2018 10:54:21 AM Completed
+INFO  2018-03-14 16:50:52,648 984378ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:54:56 AM Started
+INFO  2018-03-14 16:51:04,377 996107ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 11:10:54 AM Completed
+INFO  2018-03-14 16:51:04,403 996133ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-14 16:51:05,017 996747ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 11:10:54 AM Completed
+INFO  2018-03-14 16:51:05,067 996797ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-14 16:51:26,754 1018483ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-2/14/2018 10:54:21 AM Completed
+INFO  2018-03-14 16:51:26,812 1018541ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-2/14/2018 10:54:21 AM Completed
+INFO  2018-03-14 16:51:26,839 1018568ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-14 16:51:26,897 1018626ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-14 16:52:25,799 1077529ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-2/14/2018 10:54:21 AM Completed
+INFO  2018-03-14 16:52:25,800 1077530ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-2/14/2018 10:54:21 AM Completed
+INFO  2018-03-14 16:52:25,895 1077625ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/20/2018 6:57:38 AM Started
+INFO  2018-03-14 16:52:25,933 1077663ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/20/2018 6:57:38 AM Started
+INFO  2018-03-14 16:52:31,522 1083252ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-2/21/2018 7:42:53 AM Completed
+INFO  2018-03-14 16:52:31,570 1083300ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:44:05 AM Started
+INFO  2018-03-14 16:52:31,704 1083434ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-2/21/2018 7:42:53 AM Completed
+INFO  2018-03-14 16:52:31,751 1083481ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:44:05 AM Started
+INFO  2018-03-14 16:52:40,203 1091932ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 11:19:55 AM Completed
+INFO  2018-03-14 16:52:40,229 1091958ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-14 16:52:40,609 1092338ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 11:19:55 AM Completed
+INFO  2018-03-14 16:52:40,663 1092392ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-14 16:53:00,232 1111961ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-2/14/2018 10:54:21 AM Completed
+INFO  2018-03-14 16:53:00,240 1111969ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-2/14/2018 10:54:21 AM Completed
+INFO  2018-03-14 16:53:00,310 1112039ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/20/2018 12:47:46 PM Started
+INFO  2018-03-14 16:53:00,325 1112054ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/20/2018 12:47:46 PM Started
+INFO  2018-03-14 16:53:02,410 1114140ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-2/20/2018 12:47:46 PM Completed
+INFO  2018-03-14 16:53:02,442 1114172ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-2/20/2018 12:47:46 PM Completed
+INFO  2018-03-14 16:53:02,450 1114180ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:14:46 AM Started
+INFO  2018-03-14 16:53:02,473 1114203ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:14:46 AM Started
+INFO  2018-03-14 16:53:08,006 1119735ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 9:43:07 AM Completed
+INFO  2018-03-14 16:53:08,048 1119777ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:53:47 AM Started
+INFO  2018-03-14 16:53:08,767 1120496ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 9:43:07 AM Completed
+INFO  2018-03-14 16:53:08,844 1120573ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 6:53:47 AM Started
+INFO  2018-03-14 16:53:23,337 1135067ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 10:19:41 AM Completed
+INFO  2018-03-14 16:53:23,410 1135140ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 10:19:41 AM Completed
+INFO  2018-03-14 16:53:23,455 1135185ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-14 16:53:23,527 1135257ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-14 16:54:53,657 1225387ms FeedlyInfo             teOperationStarted - SearchThread-Thread Enter Feedly Started
+INFO  2018-03-14 16:54:54,513 1226243ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-14 16:57:38,264 1389993ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-14 16:57:59,116 1410845ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-2/14/2018 10:54:21 AM Completed
+INFO  2018-03-14 16:57:59,218 1410947ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/20/2018 11:55:58 PM Started
+INFO  2018-03-14 16:58:01,663 1413393ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 11:46:13 AM Completed
+INFO  2018-03-14 16:58:01,763 1413493ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-14 16:58:16,528 1428258ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-2/14/2018 10:54:21 AM Completed
+INFO  2018-03-14 16:58:18,173 1429902ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-14 16:58:21,633 1433363ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-2/14/2018 10:54:21 AM Completed
+INFO  2018-03-14 16:58:21,804 1433534ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/20/2018 4:46:49 PM Started
+INFO  2018-03-14 16:58:28,198 1439927ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/7/2018 4:07:15 AM Completed
+INFO  2018-03-14 16:58:29,188 1440917ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/21/2018 12:00:00 AM Started
+INFO  2018-03-14 16:58:55,523 1467253ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-3/14/2018 12:00:00 AM Completed
+INFO  2018-03-14 16:58:57,223 1468952ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started
+INFO  2018-03-14 16:59:50,686 1522415ms FeedlyInfo             OperationCompleted - FetchFeedlyFeeds-Pantene-SearchTerm-0-2/14/2018 10:54:21 AM Completed
+INFO  2018-03-14 16:59:50,822 1522551ms FeedlyInfo             teOperationStarted - FetchFeedlyFeeds-Pantene-SearchTerm-2/14/2018 10:54:21 AM Started

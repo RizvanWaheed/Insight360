@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+using Insight360.Common;
+using Insight360.Common;
+
+namespace Insight360.Blogger
+{
+    static class Program
+    {
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            //load the connection string from configuration file
+            DAL.DBUtil.ConnectionString = AppSettings.Insight360_ConnectionString;
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new BloggerForm());
+        }
+    }
+}

@@ -1,0 +1,46 @@
+ERROR 2016-05-06 16:44:19,931  4830ms BloggerError           WriteException     - B1011 FetchVideoFeeds
+System.IO.FileLoadException: Could not load file or assembly 'Google.Apis, Version=1.9.2.27817, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+File name: 'Google.Apis, Version=1.9.2.27817, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab'
+   at Insight360.Blogger.DataCollection.GetPosts(DocumentSourceInfo config, Boolean getComments, String apiKey)
+   at Insight360.Blogger.BloggerClient.FetchBlogPosts(DocumentSourceInfo config) in E:\Working\Insight360\Insight360WebMiner\Mining\Insight360.Blogger\DataCollector\BloggerClient.cs:line 51
+
+=== Pre-bind state information ===
+LOG: DisplayName = Google.Apis, Version=1.9.2.27817, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab
+ (Fully-specified)
+LOG: Appbase = file:///E:/Working/Insight360/Insight360WebMiner/Insight360.Scheduler/
+LOG: Initial PrivatePath = E:\Working\Insight360\Insight360WebMiner\Insight360.Scheduler\bin
+Calling assembly : Google.Apis.Blogger.v3, Version=1.9.2.48, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\Working\Insight360\Insight360WebMiner\Insight360.Scheduler\web.config
+LOG: Using host configuration file: C:\Users\srobaid\Documents\IISExpress\config\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Redirect found in application configuration file: 1.9.2.27817 redirected to 1.9.2.27817.
+LOG: Post-policy reference: Google.Apis, Version=1.9.2.27817, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab
+LOG: Attempting download of new URL file:///C:/Users/srobaid/AppData/Local/Temp/Temporary ASP.NET Files/vs/22d9e0ad/7738d7eb/Google.Apis.DLL.
+LOG: Attempting download of new URL file:///C:/Users/srobaid/AppData/Local/Temp/Temporary ASP.NET Files/vs/22d9e0ad/7738d7eb/Google.Apis/Google.Apis.DLL.
+LOG: Attempting download of new URL file:///E:/Working/Insight360/Insight360WebMiner/Insight360.Scheduler/bin/Google.Apis.DLL.
+WRN: Comparing the assembly name resulted in the mismatch: Minor Version
+ERR: Failed to complete setup of assembly (hr = 0x80131040). Probing terminated.
+
+ERROR 2017-09-22 12:40:42,799 32657ms BloggerError           WriteException     - Blogger SearchThread
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout)
+   at Insight360.Blogger.DataCollector.SearchThread() in D:\office_stuff\Projects\DotNet\360Insight\code\360Insight\Insight360WebMiner\Mining\Insight360.Blogger\DataCollector\DataCollector.cs:line 83
+ERROR 2017-09-22 18:11:33,549 32730ms BloggerError           WriteException     - Blogger SearchThread
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout)
+   at Insight360.Blogger.DataCollector.SearchThread() in D:\office_stuff\Projects\DotNet\360Insight\code\360Insight\Insight360WebMiner\Mining\Insight360.Blogger\DataCollector\DataCollector.cs:line 83
+ERROR 2018-01-24 13:07:10,912 73747ms BloggerError           WriteException     - Blogger SearchThread
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeHandle waitableSafeHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.InternalWaitOne(SafeHandle waitableSafeHandle, Int64 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout)
+   at Insight360.Blogger.DataCollector.SearchThread() in D:\office_stuff\Projects\DotNet\360Insight\code\360Insight\Insight360WebMiner\Mining\Insight360.Blogger\DataCollector\DataCollector.cs:line 83
